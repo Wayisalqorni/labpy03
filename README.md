@@ -34,7 +34,9 @@
 Membangkitkan nilai ​random() 
  from​ random ​import​ random a = random() print​(a) 
  
-![latihan1](gambar1/latihan1.PNG)
+ ![gbr2](gambar/gbr2.PNG)
+
+ ![gbr3](gambar/gbr3.PNG)
 
  Penjelasan:
 
