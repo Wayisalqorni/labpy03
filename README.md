@@ -34,7 +34,6 @@
 Membangkitkan nilai ​random() 
  from​ random ​import​ random a = random() print​(a) 
  
- ![gbr2](gambar/gbr2.PNG)
 
  ![gbr3](gambar/gbr3.PNG)
 
@@ -48,14 +47,14 @@ Membangkitkan nilai ​random()
 
 terminal:
 
-![latihan](gambar1/latihan.PNG)
+![gbr4](gambar/gbr4.PNG)
 
 ## Latihan 2: latihan2.py 
   Buat program untuk menampilkan bilangan ​terbesar​ dari ​n​ buah data yang diinputkan. Masukkan angka 0 untuk berhenti. 
 
  ![gbr2](gambar/gbr2.PNG)
 
- ![latihan2](gambar2/latihan2.PNG)
+ ![gbr5](gambar/gbr5.PNG)
 
  Penjelasan:
 
@@ -73,14 +72,14 @@ terminal:
 
 Terminal:
 
-![latihandua](gambar2/latihandua.PNG)
+![gbr6](gambar/gbr6.PNG)
 
 ## Program1: Program 1.py
  Buat program sederhana dengan perulangan: ​program1.py Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
+ 
+ ![gbr7](gambar/gbr7.PNG)
 
- ![program](gambar3/program.PNG)
-
- ![program1](gambar3/program1.PNG)
+ ![gbr8](gambar/gbr8.PNG)
 
  Penjelasan:
 
@@ -104,6 +103,6 @@ Terminal:
 
 Terminal:
 
-![program2](gambar3/program2.PNG)
+![gbr9](gambar/gbr9.PNG)
 
  
